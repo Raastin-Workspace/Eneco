@@ -1,0 +1,15 @@
+{
+    "aud": "https://Eneco.onmicrosoft.com/ecsaz-apigee-odp-t",
+    "iss": "https://sts.windows.net/eca36054-49a9-4731-a42f-8400670fc022/",
+    "iat": 1616416705,
+    "nbf": 1616416705,
+    "exp": 1616420605,
+    "aio": "E2ZgYEg3Vdmf6hspv/uPMbff8/MCAA==",
+    "appid": "1e0fb354-a78d-4f5b-9966-ed623a624599",
+    "idp": "https://sts.windows.net/eca36054-49a9-4731-a42f-8400670fc022/",
+    "oid": "db6e89f9-db16-4252-9429-c4d5e48adabd",
+    "sub": "db6e89f9-db16-4252-9429-c4d5e48adabd",
+    "tid": "eca36054-49a9-4731-a42f-8400670fc022",
+    "uti": "SgBa7Q3KTUy3Qf8hzOY3AA",
+    "ver": "1.0"
+}
