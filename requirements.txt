@@ -1,5 +1,6 @@
-polars==1.38.1
+polars==1.39.2
 psycopg2_binary==2.9.11
 PyJWT==2.4.0
-PyJWT==2.11.0
+PyJWT==2.12.1
+python-dotenv==1.2.2
 Requests==2.32.5
